@@ -1,5 +1,5 @@
-from ultralytics import YOLO 
-model = YOLO("yoloe-11s-seg.pt")
+from ultralytics import YOLOE 
+model = YOLOE("yoloe-11s-seg.pt")
 names = [
     "watch",          
     "over-ear headphones", 
