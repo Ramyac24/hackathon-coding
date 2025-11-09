@@ -1,0 +1,7 @@
+streamlit
+flask
+requests
+opencv-python-headless
+ultralytics
+google-generativeai
+python-dotenv
