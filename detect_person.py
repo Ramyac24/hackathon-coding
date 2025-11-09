@@ -3,7 +3,7 @@ import smtplib
 from email.mime.text import MIMEText
 
 # --- CONFIG ---
-VIDEO_PATH = "WhatsApp Video 2025-11-08 at 14.55.09.mp4"
+VIDEO_PATH = "sample.mp4"
 ALERT_SENT = False  # Only send one alert
 
 # --- EMAIL CONFIG ---
